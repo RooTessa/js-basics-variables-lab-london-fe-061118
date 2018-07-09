@@ -2,7 +2,6 @@
 const companyName = 'Scuber';
 let mostProfitableNeighborhood = 'Chelsea';
 
-const Upper West Side = 'Chelsea'
 
 
 
@@ -28,6 +27,7 @@ describe('index.js', function () {
     });
   });
 let companyCeo = 'Susan Smith'
+
 
 
   describe('companyCeo', function () {
