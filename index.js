@@ -25,7 +25,7 @@ describe('index.js', function () {
       expect(function () { mostProfitableNeighborhood = 'Upper West Side' }).to.not.throw(TypeError);
     });
   });
-
+let companyCeo = 'Susan Smith'
   describe('companyCeo', function () {
     it('is declared as equal to Susan Smith', function () {
       expect(companyCeo).to.equal('Susan Smith');
