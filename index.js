@@ -26,6 +26,8 @@ describe('index.js', function () {
     });
   });
 let companyCeo = 'Susan Smith'
+const mostProfitableNeighborhoof 'Upper West Side';
+
   describe('companyCeo', function () {
     it('is declared as equal to Susan Smith', function () {
       expect(companyCeo).to.equal('Susan Smith');
