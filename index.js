@@ -1,5 +1,5 @@
 // Code your solution in this file!
-let compaconst expect = chai.expect;
+
 
 describe('index.js', function () {
   describe('companyName', function () {
