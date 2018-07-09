@@ -26,8 +26,8 @@ describe('index.js', function () {
       expect(function () { mostProfitableNeighborhood = 'Upper West Side' }).to.not.throw(TypeError);
     });
   });
-let companyCeo = 'Susan Smith'
-
+let companyCeo = 'Susan Smith';
+const Upper West Side = 'Chelsea';
 
 
   describe('companyCeo', function () {
