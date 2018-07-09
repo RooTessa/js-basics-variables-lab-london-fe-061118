@@ -27,7 +27,7 @@ describe('index.js', function () {
     });
   });
 let companyCeo = 'Susan Smith';
-const Upper West Side = 'Chelsea';
+
 
 
   describe('companyCeo', function () {
